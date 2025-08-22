@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <!-- Puedes reemplazar la imagen de abajo por tu propio banner de LinkedIn/GitHub -->
-  <!-- <img src="TU_URL_DE_BANNER" width="800"/> -->
-
+<div align="center">
+  <img src="https://github.com/joselobo-24/joselobo-24/blob/main/banner.png" width="800"/>
+</div>
   <h1 align="center">👋 Hola, soy Jose</h1>
 
   <a href="http://www.linkedin.com/in/jose-quispe-lobo-557450210">
